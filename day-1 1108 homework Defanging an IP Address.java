@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public String defangIPaddr(String address) {
         StringBuilder result = new StringBuilder();
 
